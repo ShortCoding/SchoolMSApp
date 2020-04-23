@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMSApp", "SchoolMSApp\SchoolMSApp.csproj", "{DC97FB7B-2E6D-4CEA-84EF-BE2F1E9962E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMSInfrastructure", "SchoolMSInfrastructure\SchoolMSInfrastructure.csproj", "{E67A16B1-29FD-4C88-9CF1-A26525AE855C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMSServices", "SchoolMSServices\SchoolMSServices.csproj", "{47E6D97B-1C79-44B0-97E3-0911A54A7406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC97FB7B-2E6D-4CEA-84EF-BE2F1E9962E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC97FB7B-2E6D-4CEA-84EF-BE2F1E9962E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC97FB7B-2E6D-4CEA-84EF-BE2F1E9962E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC97FB7B-2E6D-4CEA-84EF-BE2F1E9962E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67A16B1-29FD-4C88-9CF1-A26525AE855C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67A16B1-29FD-4C88-9CF1-A26525AE855C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67A16B1-29FD-4C88-9CF1-A26525AE855C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67A16B1-29FD-4C88-9CF1-A26525AE855C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E6D97B-1C79-44B0-97E3-0911A54A7406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E6D97B-1C79-44B0-97E3-0911A54A7406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E6D97B-1C79-44B0-97E3-0911A54A7406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E6D97B-1C79-44B0-97E3-0911A54A7406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
